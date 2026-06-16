@@ -4,7 +4,7 @@
 
 [Optional: drop in a screenshot or GIF of your game here so readers can see what the screen looks like when it opens.]
 
-![Pong_screenshot](Desktop/Pong_screenshot.png)
+![Pong_screenshot](assets/Pong_screenshot.png)
 
 ## Description
 
