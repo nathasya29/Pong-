@@ -25,27 +25,28 @@ When the ball touches the bottom of the screen the game will quit. See if you ca
 
 | Input | Action |
 |-------|--------|
-| Mouse | [Moves Platform] |
+| Mouse | Moves Platform |
 
 
 ## Features
 
 - [ ] Screen opens to show the environment
-- [ ] Elements drawn on the screen  [briefly: what is drawn]
-- [ ] User-controlled elements [briefly: what the user controls]
-- [ ] [Any extra features you're proud of]
+- [ ] Elements drawn on the screen (ball and platform)
+- [ ] User-controlled elements (mouse controlled platform)
+- [ ] Score Counter
 
 ## Dependencies
 
 - Python 3.13
 - pygame-ce
-- [any other PyPI libraries - list them, or write "none beyond pygame"]
+- none beyond pygame
 
 ## Assets
 
 List any images, sounds, fonts, or other files in the `assets/` folder, and where each came from:
 
 - `assets/[file]` - [made by me / source + link]
+- ball.png/[data]
 
 *(If everything is your own, just say so. Credit anything you didn't make.)*
 
@@ -58,26 +59,16 @@ State which code from class you used as a starting point, as required by the gua
 
 ## AI Disclosure
 
-Disclose code or ideas where AI was used, including the **model** and **line numbers / commits**. Per the rubric, copy-and-pasted AI code is discouraged and, if used, **pasted lines need your own explanation of what it does and why**
-
-You could use the table below or just list using bullets.
-
-**Model(s) used:** [e.g. Claude Opus 4.8, ChatGPT, etc.]
-
-| Lines / Commit | What it does (in my own words) | Why I used it | AI vs. my own |
-|----------------|--------------------------------|---------------|---------------|
-| `main.py` lines [x-y] / commit [hash] | [explain the code] | [why] | [pasted / adapted / written by me with AI help] |
-
-*(If no AI was used at all, write "No AI was used in this project." If AI was only used to learn concepts and no code was pasted, say that explicitly.)*
+"No AI was used in this project." 
 
 ## Known Bugs / Limitations
 
-- [anything that doesn't work perfectly]
-
+- You can farm points if you catch the ball on the side of the platform
 ## Possible Future Improvements
 
-- [ideas you'd add with more time]
+- Game start and end screens
+- ball gradually speeds up with each point
 
 ## Author
 
-[Your name]
+Nathasya Tan
