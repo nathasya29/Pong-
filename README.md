@@ -4,7 +4,7 @@
 
 [Optional: drop in a screenshot or GIF of your game here so readers can see what the screen looks like when it opens.]
 
-![screenshot](assets/screenshot.png)
+![Pong_screenshot](Desktop/Pong_screenshot.png)
 
 ## Description
 
@@ -45,8 +45,7 @@ When the ball touches the bottom of the screen the game will quit. See if you ca
 
 List any images, sounds, fonts, or other files in the `assets/` folder, and where each came from:
 
-- `assets/[file]` - [made by me / source + link]
-- ball.png/[data]
+- ball.png/[data] - from google
 
 *(If everything is your own, just say so. Credit anything you didn't make.)*
 
@@ -54,8 +53,9 @@ List any images, sounds, fonts, or other files in the `assets/` folder, and wher
 
 State which code from class you used as a starting point, as required by the guardrails:
 
-- Started from `[e.g. 10_pygame_collision.py]` - used for [what part, e.g. the collision-detection loop].
-- [Repeat for each piece of class code used, or write "No class code used as a starting point."]
+- Started from '11_pygame_shumups.py' to move the ball
+- Then used `08_pygamedrawing.py` - used for making the ball bounce off the walls.
+- then used '10_pygame_collision.py' to make the classes and end game when ball touches bottom of screen
 
 ## AI Disclosure
 
