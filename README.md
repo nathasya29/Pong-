@@ -25,10 +25,8 @@ When the ball touches the bottom of the screen the game will quit. See if you ca
 
 | Input | Action |
 |-------|--------|
-| Arrow keys / WASD | [e.g. move the player] |
-| Spacebar | [e.g. jump / shoot] |
-| Mouse | [e.g. aim / click to select] |
-| Esc | [e.g. quit] |
+| Mouse | [Moves Platform] |
+
 
 ## Features
 
